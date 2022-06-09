@@ -36,7 +36,7 @@ But for this Astro Template, you can choose GitHub as your deployment method.
 Select Clone in step at step Git Repository and select Astro template for creating a repository in your git account after that authenticate with Git by clicking on
 Continue with Github button and authorize elestio to access git then you can rename you repository name if you want.
 
-Else If you forked the repo then you can click on the Continue with GitHub button and authorize elestio to access the git repo then you can select the ember-app repo otherwise you can directly insert a git repo URL to deploy the Ember App.
+Else If you forked the repo then you can click on the Continue with GitHub button and authorize elestio to access the git repo then you can select the astro repo otherwise you can directly insert a git repo URL to deploy the Astro Website.
 
 ### Step 4: Configuration
 
